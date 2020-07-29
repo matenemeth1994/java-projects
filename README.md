@@ -1,3 +1,3 @@
 ### Java-projects
 
-Repo for my java first ever java projects yeah!
+Repo for my first ever java projects yeah!
