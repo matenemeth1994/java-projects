@@ -4,10 +4,10 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.view.View;
+import android.widget.EditText;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void onBtnClick (View view) {
         TextView txtHello = findViewById(R.id.txtMessage);
-        txtHello.setText("Az első android applikációm! Yeah!");
+        EditText editTxtName = findViewById(R.id.editTxtName);
+        txtHello.setText("Hello " + editTxtName.getText().toString());
     }
 }
