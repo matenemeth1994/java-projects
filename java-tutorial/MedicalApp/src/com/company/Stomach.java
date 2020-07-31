@@ -26,8 +26,4 @@ public class Stomach extends Organ{
     public boolean isEmpty() {
         return isEmpty;
     }
-
-    public void setEmpty(boolean empty) {
-        isEmpty = empty;
-    }
 }
