@@ -20,6 +20,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
@@ -66,6 +67,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="527" y="282" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1596132245936" />
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1596295224152">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1596295224152" />
     <state width="1493" height="90" key="GridCell.Tab.0.bottom" timestamp="1596204997523">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -86,9 +91,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1596131985283" />
-    <state x="209" y="32" key="new project wizard" timestamp="1596132036706">
+    <state x="209" y="32" key="new project wizard" timestamp="1596295225395">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="209" y="32" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1596132036706" />
+    <state x="209" y="32" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1596295225395" />
   </component>
 </project>
